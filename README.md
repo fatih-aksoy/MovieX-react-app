@@ -1,4 +1,4 @@
-
+Project Link https://moviebaf.netlify.app/
 ```
  MovieX-react-app (folder)
 |
@@ -192,4 +192,4 @@ sendPasswordResetEmail(auth, email)
 
 - You can add additional functionalities to your app.
 
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
+
